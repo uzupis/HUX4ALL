@@ -70,7 +70,7 @@ export default function Home() {
 				<Image className="mb-4 mt-6" src="/hug.jpeg" alt="Hugs" width={250} height={150} />
 
 				<p className={`${styles.description} mb-10 text-center justify-center`}>
-					$HUX is a the first currency that creates NFTs when you share it. Send 1 million $HUX to a Tezos friend, and two cute cats will be born and minted to your wallets as a memory. A total of 42 $HUX memories can be created this way.
+					$HUX is a currency that creates NFTs when you share it. Send 1 million $HUX to a Tezos friend, and two cute cats will be born and minted to your wallets as a memory. A total of 42 $HUX memories can be created this way.
 						</p>
 					
 				<input
