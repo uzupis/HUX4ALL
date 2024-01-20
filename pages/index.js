@@ -90,7 +90,7 @@ export default function Home() {
 					</span></button>
 					<p>$HUX contract: KT1MT3rZkTE8cN8eGQaNJ2Wg2D2nPPtdxELv</p>
 					<p>Minting contract: KT1Wz92wmPaBmR4eEk9J2iAds2n1NEQTVsFb</p>
-					<p>Objkt collection: $HUX 4 ALL</p>
+					<p> </p>
 					<p>A project by Max Haarich / twitter: UzupisMUC
 				</p>
 				{isTxn && <InfoAlert transactionMsg={transactionMsg} />}
